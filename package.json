@@ -9,7 +9,7 @@
     "express": "~4.21.1",
     "github-timeline-stream": "*",
     "grunt": "~1.6.0",
-    "jquery": "~3.5.0",
+    "jquery": "~3.7.1",
     "jquery-ui": "~1.13.2",
     "map-stream": "~0.1.0",
     "moment": "~2.29.2",
