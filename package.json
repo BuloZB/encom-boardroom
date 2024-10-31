@@ -13,7 +13,7 @@
     "jquery-ui": "~1.13.2",
     "map-stream": "~0.1.0",
     "moment": "~2.29.2",
-    "moment-timezone": "0.0.6",
+    "moment-timezone": "0.5.46",
     "pleaserotate.js": "*",
     "pusher.color": "~0.2.4",
     "request": "~2.88.2",
